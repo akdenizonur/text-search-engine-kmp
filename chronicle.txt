@@ -1,0 +1,59 @@
+Pre-20th century
+
+    The Ishango bone, a bone tool dating back to prehistoric Africa
+Devices have been used to aid computation for thousands of years, mostly using one-to-one correspondence with fingers. The earliest counting device was most likely a form of tally stick. Later record keeping aids
+throughout the Fertile Crescent included calculi (clay spheres, cones, etc.) which represented counts of items, likely livestock or grains, sealed in hollow unbaked clay containers.[a][4] The use of counting rods 
+is one example.
+
+
+    The Chinese suanpan (算盘). The number represented on this abacus is 6,302,715,408.
+The abacus was initially used for arithmetic tasks. The Roman abacus was developed from devices used in Babylonia as early as 2400 BCE. Since then, many other forms of reckoning boards or tables have been invented.
+In a medieval European counting house, a checkered cloth would be placed on a table, and markers moved around on it according to certain rules, as an aid to calculating sums of money.[5]
+
+
+    The Antikythera mechanism, dating back to ancient Greece circa 200–80 BCE, is an early analog computing device.
+The Antikythera mechanism is believed to be the earliest known mechanical analog computer, according to Derek J. de Solla Price.[6] It was designed to calculate astronomical positions. It was discovered in 1901 
+in the Antikythera wreck off the Greek island of Antikythera, between Kythera and Crete, and has been dated to approximately c. 100 BCE. Devices of comparable complexity to the Antikythera mechanism would
+ not reappear until the fourteenth century.[7]
+Many mechanical aids to calculation and measurement were constructed for astronomical and navigation use. The planisphere was a star chart invented by Abū Rayhān al-Bīrūnī in the early 11th century.[8]
+The astrolabe was invented in the Hellenistic world in either the 1st or 2nd centuries BCE and is often attributed to Hipparchus. A combination of the planisphere and dioptra, the astrolabe was effectively
+an analog computer capable of working out several different kinds of problems in spherical astronomy. An astrolabe incorporating a mechanical calendar computer[9][10] and gear-wheels was invented by Abi Bakr
+of Isfahan, Persia in 1235.[11] Abū Rayhān al-Bīrūnī invented the first mechanical geared lunisolar calendar astrolabe,[12] an early fixed-wired knowledge processing machine[13] with a gear train and gear-wheels,
+[14] c. 1000 AD.
+The sector, a calculating instrument used for solving problems in proportion, trigonometry, multiplication and division, and for various functions, such as squares and cube roots, was developed in the late 
+16th century and found application in gunnery, surveying and navigation.
+
+    The planimeter was a manual instrument to calculate the area of a closed figure by tracing over it with a mechanical linkage.
+
+A slide rule
+    The slide rule was invented around 1620–1630, by the English clergyman William Oughtred, shortly after the publication of the concept of the logarithm. It is a hand-operated analog computer for doing
+multiplication and division. As slide rule development progressed, added scales provided reciprocals, squares and square roots, cubes and cube roots, as well as transcendental functions such as logarithms
+and exponentials, circular and hyperbolic trigonometry and other functions. Slide rules with special scales are still used for quick performance of routine calculations, such as the E6B circular slide rule used 
+for time and distance calculations on light aircraft.In the 1770s, Pierre Jaquet-Droz, a Swiss watchmaker, built a mechanical doll (automaton) that could write holding a quill pen. By switching the number and 
+order of its internal wheels different letters, and hence different messages, could be produced. In effect, it could be mechanically "programmed" to read instructions. Along with two other complex machines, the 
+doll is at the Musée d'Art et d'Histoire of Neuchâtel, Switzerland, and still operates.[15]In 1831–1835, mathematician and engineer Giovanni Plana devised a Perpetual Calendar machine, which through a system 
+of pulleys and cylinders could predict the perpetual calendar for every year from 0 CE (that is, 1 BCE) to 4000 CE, keeping track of leap years and varying day length. The tide-predicting machine invented by 
+the Scottish scientist Sir William Thomson in 1872 was of great utility to navigation in shallow waters. It used a system of pulleys and wires to automatically calculate predicted tide levels for a set period at 
+a particular location.The differential analyser, a mechanical analog computer designed to solve differential equations by integration, used wheel-and-disc mechanisms to perform the integration. In 1876, Sir William
+Thomson had already discussed the possible construction of such calculators, but he had been stymied by the limited output torque of the ball-and-disk integrators.[16] In a differential analyzer, the output of one
+integrator drove the input of the next integrator, or a graphing output. The torque amplifier was the advance that allowed these machines to work. Starting in the 1920s, Vannevar Bush and others developed
+mechanical differential analyzers.In the 1890s, the Spanish engineer Leonardo Torres Quevedo began to develop a series of advanced analog machines that could solve real and complex roots of polynomials,
+[17][18][19][20] which were published in 1901 by the Paris Academy of Sciences.[21]
+
+First computer
+
+Charles Babbage
+
+A diagram of a portion of Babbage's Difference engine
+
+    The Difference Engine Number 2 at the Intellectual Ventures laboratory in Seattle
+Charles Babbage, an English mechanical engineer and polymath, originated the concept of a programmable computer. Considered the "father of the computer",[22] he conceptualized and invented the first mechanical
+computer in the early 19th century.After working on his difference engine he announced his invention in 1822, in a paper to the Royal Astronomical Society, titled "Note on the application of machinery to
+the computation of astronomical and mathematical tables".[23] He also designed to aid in navigational calculations, in 1833 he realized that a much more general design, an analytical engine, was possible. 
+The input of programs and data was to be provided to the machine via punched cards, a method being used at the time to direct mechanical looms such as the Jacquard loom. For output, the machine would have a printer,
+a curve plotter and a bell. The machine would also be able to punch numbers onto cards to be read in later. The engine would incorporate an arithmetic logic unit, control flow in the form of conditional branching
+and loops, and integrated memory, making it the first design for a general-purpose computer that could be described in modern terms as Turing-complete.[24][25]The machine was about a century ahead of its time. 
+All the parts for his machine had to be made by hand – this was a major problem for a device with thousands of parts. Eventually, the project was dissolved with the decision of the British Government to cease 
+funding. Babbage's failure to complete the analytical engine can be chiefly attributed to political and financial difficulties as well as his desire to develop an increasingly sophisticated computer and to move 
+ahead faster than anyone else could follow. Nevertheless, his son, Henry Babbage, completed a simplified version of the analytical engine's computing unit (the mill) in 1888. He gave a successful demonstration of 
+its use in computing tables in 1906.

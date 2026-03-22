@@ -1,0 +1,29 @@
+================ DETAYLI RAPOR ================
+Aranan Kelime: computer
+Arama Modu: Tam Kelime
+
+
+>>> DOSYA: computer.txt
+  - Satir 1: 1 kez bulundu.
+  - Satir 3: 1 kez bulundu.
+  - Satir 4: 2 kez bulundu.
+  - Satir 5: 2 kez bulundu.
+  - Satir 17: 2 kez bulundu.
+--- Bu dosyada toplam: 8 kez gecti.
+
+>>> DOSYA: chronicle.txt
+  - Satir 15: 1 kez bulundu.
+  - Satir 20: 2 kez bulundu.
+  - Satir 29: 1 kez bulundu.
+  - Satir 37: 1 kez bulundu.
+  - Satir 43: 1 kez bulundu.
+  - Satir 50: 2 kez bulundu.
+  - Satir 51: 1 kez bulundu.
+  - Satir 55: 1 kez bulundu.
+  - Satir 57: 1 kez bulundu.
+--- Bu dosyada toplam: 11 kez gecti.
+
+================ OZET SONUC ================
+Taramada Gecen Toplam Sure: 0.0006 saniye
+Tum Dosyalardaki Genel Toplam Frekans: 19
+============================================
