@@ -1,11 +1,11 @@
 # Metin Arama Motoru (KMP Algoritması - C)
 
-    Bu proje, C dili kullanılarak geliştirilmiş basit bir metin arama motorudur.
+Bu proje, C dili kullanılarak geliştirilmiş basit bir metin arama motorudur.
 Arama işlemi için KMP (Knuth-Morris-Pratt) algoritması kullanılmıştır.
 
 ## Projenin Amacı
 
-    Bu projeyi yapmamızdaki amaç, metin arama algoritmalarını daha iyi anlamak ve
+Bu projeyi yapmamızdaki amaç, metin arama algoritmalarını daha iyi anlamak ve
 özellikle KMP algoritmasının nasıl çalıştığını uygulamalı olarak görmekti. Aynı 
 zamanda dosya işlemleri ve string işlemleri üzerine pratik yapma fırsatı oldu.
 
