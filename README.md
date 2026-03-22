@@ -65,6 +65,6 @@ gcc searchEngine.c -o searchEngine
 
 ## Geliştiren
 
-    Bu proje, algoritmalar ve C programlama pratiği yapmak amacıyla üniversite
+Bu proje, algoritmalar ve C programlama pratiği yapmak amacıyla üniversite
 öğrencileri tarafından hazırlanmıştır.
 
